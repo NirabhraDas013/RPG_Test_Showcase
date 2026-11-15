@@ -1,0 +1,1117 @@
+{
+  "scope": "public image-only gallery of BlenderWorks renders for Evidence Google Doc",
+  "items": [
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "_checks/Q4-Warden-Crouch-Cycle/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/_checks/Q4-Warden-Crouch-Cycle/hero.jpg",
+      "size": 15497,
+      "sha": "ea9ec9348db4bba97c240b41274a5d66a20bbb5a"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "_checks/Q4-Warden-Lit-Calibrated-Diagnostic/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/_checks/Q4-Warden-Lit-Calibrated-Diagnostic/hero.jpg",
+      "size": 119924,
+      "sha": "77f4acd053fe56a42685ad58ee475f19e2d92ef1"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "_checks/Q4-Warden-Lit-Diagnostic/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/_checks/Q4-Warden-Lit-Diagnostic/hero.jpg",
+      "size": 123590,
+      "sha": "31c5bec34f446c03c96bafba8371bb37b035f648"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "_checks/Q4-Warden-Phase2B-brace/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/_checks/Q4-Warden-Phase2B-brace/hero.jpg",
+      "size": 71055,
+      "sha": "fa5e7957fdf3fa09ac03d8639a99f08796e37f1c"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "_checks/Q4-Warden-Phase2B-crouch/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/_checks/Q4-Warden-Phase2B-crouch/hero.jpg",
+      "size": 70308,
+      "sha": "4f53748a2f4f3557ce4c13267ed2ae2b669d5ba3"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "_checks/Q4-Warden-Phase2B-stride/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/_checks/Q4-Warden-Phase2B-stride/hero.jpg",
+      "size": 71469,
+      "sha": "d28f67bfef397d3123705b3f53b27e5a4ae0afc9"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "_checks/Q4-Warden-Phase2B-turret_elevation/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/_checks/Q4-Warden-Phase2B-turret_elevation/hero.jpg",
+      "size": 71627,
+      "sha": "f5fdcdb2048f4995946387650b506e487f793e9f"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "_checks/Q4-Warden-Phase2B-turret_yaw/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/_checks/Q4-Warden-Phase2B-turret_yaw/hero.jpg",
+      "size": 70552,
+      "sha": "6a22a1d40149a48ed5fb43f8455391633b516ba2"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "_checks/Q4-Warden-Unreal-Assembled/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/_checks/Q4-Warden-Unreal-Assembled/hero.jpg",
+      "size": 173857,
+      "sha": "6f742e7245bed166076f043e325a56722d8135bd"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "_checks/Q4-Warden-Unreal-Framed/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/_checks/Q4-Warden-Unreal-Framed/hero.jpg",
+      "size": 127722,
+      "sha": "1616c89d00a95d709de1acccf2a815d184cd27d7"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "_checks/Q4-Warden-Unreal-StudioV2/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/_checks/Q4-Warden-Unreal-StudioV2/hero.jpg",
+      "size": 163592,
+      "sha": "60e0134f3a4b2399267bddfbc92806453797fd49"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "_checks/Q4-Warden-Unreal-StudioV3/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/_checks/Q4-Warden-Unreal-StudioV3/hero.jpg",
+      "size": 153823,
+      "sha": "08d49c0c10c892aa15c4b798b3bc38ecb643c0d6"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "_checks/Q4-Warden-Unreal-StudioV4/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/_checks/Q4-Warden-Unreal-StudioV4/hero.jpg",
+      "size": 118135,
+      "sha": "5bca9e306a1624d7ac1a0cbbcdeda8e7127a9286"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "_checks/RF01-Blender-42079603299/contact-sheet.jpg",
+      "dest": "blenderworks-evidence/raw/bw/_checks/RF01-Blender-42079603299/contact-sheet.jpg",
+      "size": 51099,
+      "sha": "25ce44a647a4d5b2aca8566e186be95251654827"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "_checks/RF01-Blender-42079603299/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/_checks/RF01-Blender-42079603299/hero.jpg",
+      "size": 50892,
+      "sha": "aa1b76430a96f16c802c13a77cf70fa3015d60b7"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "_checks/RF01-Blender-42082814559/contact-sheet.jpg",
+      "dest": "blenderworks-evidence/raw/bw/_checks/RF01-Blender-42082814559/contact-sheet.jpg",
+      "size": 51137,
+      "sha": "b743b2053517cf7c1a4e240357c40f6fe3f971db"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "_checks/RF01-Blender-42082814559/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/_checks/RF01-Blender-42082814559/hero.jpg",
+      "size": 50892,
+      "sha": "3a116b5ba0ba8a1cf858d85c9132711bd6fe4e58"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "_checks/RF01-Blender-42083668864/contact-sheet.jpg",
+      "dest": "blenderworks-evidence/raw/bw/_checks/RF01-Blender-42083668864/contact-sheet.jpg",
+      "size": 51137,
+      "sha": "b743b2053517cf7c1a4e240357c40f6fe3f971db"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "_checks/RF01-Blender-42083668864/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/_checks/RF01-Blender-42083668864/hero.jpg",
+      "size": 50884,
+      "sha": "2a52ebdff497b34fcef2ef55264e64f6115f82aa"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "_checks/RF01-Blender-42090135150/contact-sheet.jpg",
+      "dest": "blenderworks-evidence/raw/bw/_checks/RF01-Blender-42090135150/contact-sheet.jpg",
+      "size": 51098,
+      "sha": "74f19533ef16dae6b27e65f4c8ad347755d0c9bb"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "_checks/RF01-Blender-42090135150/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/_checks/RF01-Blender-42090135150/hero.jpg",
+      "size": 50893,
+      "sha": "1b40beec166a95f9241b91692c1abf2cc7944471"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "_checks/RF01-Blender-42090573573/contact-sheet.jpg",
+      "dest": "blenderworks-evidence/raw/bw/_checks/RF01-Blender-42090573573/contact-sheet.jpg",
+      "size": 51119,
+      "sha": "f59923a9d5968294128c701384c0ac93daa28de5"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "_checks/RF01-Blender-42090573573/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/_checks/RF01-Blender-42090573573/hero.jpg",
+      "size": 50887,
+      "sha": "82472b3ffce986e25f1de02d359a3e928e5fdeff"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "_checks/RF01-Blender-42090969673/contact-sheet.jpg",
+      "dest": "blenderworks-evidence/raw/bw/_checks/RF01-Blender-42090969673/contact-sheet.jpg",
+      "size": 51105,
+      "sha": "6d1209874f37f70617c71ee031845ed2ba8a40b0"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "_checks/RF01-Blender-42090969673/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/_checks/RF01-Blender-42090969673/hero.jpg",
+      "size": 50896,
+      "sha": "89036d666f1a33b8754e4e390202408217f9a434"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "_checks/RF01-Godot-42083668864/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/_checks/RF01-Godot-42083668864/hero.jpg",
+      "size": 115927,
+      "sha": "2e89d5e5e5f7058a4bffba2a1501e80e4a165304"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "_checks/RF01-Godot-42090969673/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/_checks/RF01-Godot-42090969673/hero.jpg",
+      "size": 117864,
+      "sha": "3f4a98d947237aad869c3ad90a93aa411f0b46fc"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "_checks/RF01-Runtime-42090969673/contact-sheet.jpg",
+      "dest": "blenderworks-evidence/raw/bw/_checks/RF01-Runtime-42090969673/contact-sheet.jpg",
+      "size": 40348,
+      "sha": "aa8a71efae50743f456c82bf54122a71a28d3a77"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "_checks/RF01-Runtime-42090969673/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/_checks/RF01-Runtime-42090969673/hero.jpg",
+      "size": 40218,
+      "sha": "8fb1d6c3be6eaeea03bca80ec6a67b281d468170"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "BW-IS01/items/BW004-R4-Heavy_Rust-Off/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/BW-IS01/items/BW004-R4-Heavy_Rust-Off/hero.jpg",
+      "size": 179316,
+      "sha": "4f2ef2fd88159fdff2d2ef432dfbe57f44c78897"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "BW-IS01/items/BW004-R4-Heavy_Rust-On/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/BW-IS01/items/BW004-R4-Heavy_Rust-On/hero.jpg",
+      "size": 180057,
+      "sha": "b3f48abd79a93cf1ef38a5c2a8169e82ec993a51"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "BW-IS01/items/BW004-R4-Heavy_Rust-Overcharged/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/BW-IS01/items/BW004-R4-Heavy_Rust-Overcharged/hero.jpg",
+      "size": 178387,
+      "sha": "24186cbd6067729571d4bfb79904ff17390f3423"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "BW-IS01/items/BW004-R4-Light_Rust-Off/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/BW-IS01/items/BW004-R4-Light_Rust-Off/hero.jpg",
+      "size": 166850,
+      "sha": "7c8836873cc3ab6a2fa6c265f73a266edd939037"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "BW-IS01/items/BW004-R4-Light_Rust-On/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/BW-IS01/items/BW004-R4-Light_Rust-On/hero.jpg",
+      "size": 170747,
+      "sha": "500058867ca000f9ffc1d22449d3ef61cc0b136e"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "BW-IS01/items/BW004-R4-Light_Rust-Overcharged/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/BW-IS01/items/BW004-R4-Light_Rust-Overcharged/hero.jpg",
+      "size": 169580,
+      "sha": "4af61dee663cd4612369f814c61d10ee7630df68"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "BW-IS01/items/BW004-R4-NineStates/contact-sheet.jpg",
+      "dest": "blenderworks-evidence/raw/bw/BW-IS01/items/BW004-R4-NineStates/contact-sheet.jpg",
+      "size": 329766,
+      "sha": "a74acd77a517d8ad5526c4ed8b934fd20b18cc54"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "BW-IS01/items/BW004-R4-NineStates/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/BW-IS01/items/BW004-R4-NineStates/hero.jpg",
+      "size": 329766,
+      "sha": "a74acd77a517d8ad5526c4ed8b934fd20b18cc54"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "BW-IS01/items/BW004-R4-Pristine-Off/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/BW-IS01/items/BW004-R4-Pristine-Off/hero.jpg",
+      "size": 164434,
+      "sha": "69f0220edc1772967798dd4f8395e77223b7ffb5"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "BW-IS01/items/BW004-R4-Pristine-On/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/BW-IS01/items/BW004-R4-Pristine-On/hero.jpg",
+      "size": 168448,
+      "sha": "f4305b13aa4e1b05a40290a5e91531e0f1166a08"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "BW-IS01/items/BW004-R4-Pristine-Overcharged/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/BW-IS01/items/BW004-R4-Pristine-Overcharged/hero.jpg",
+      "size": 167337,
+      "sha": "253ea146faed2d12c854496b4fb7a33556ffc177"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "BW-IS01/items/BW004-R4-V2-FiveStates/contact-sheet.jpg",
+      "dest": "blenderworks-evidence/raw/bw/BW-IS01/items/BW004-R4-V2-FiveStates/contact-sheet.jpg",
+      "size": 191946,
+      "sha": "ebf18b844f024523d266d2aa6d3a9ba15facfb58"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "BW-IS01/items/BW004-R4-V2-FiveStates/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/BW-IS01/items/BW004-R4-V2-FiveStates/hero.jpg",
+      "size": 191946,
+      "sha": "ebf18b844f024523d266d2aa6d3a9ba15facfb58"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "BW-IS01/items/BW004-R4-V2-Heavy_Rust-Overcharged/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/BW-IS01/items/BW004-R4-V2-Heavy_Rust-Overcharged/hero.jpg",
+      "size": 174751,
+      "sha": "285b4f1bcd3b121afb878b5984b27b7db3ca6da8"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "BW-IS01/items/BW004-R4-V2-Light_Rust-Off/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/BW-IS01/items/BW004-R4-V2-Light_Rust-Off/hero.jpg",
+      "size": 172149,
+      "sha": "e18dfebb152544879b3a61306b4916c852af3e9e"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "BW-IS01/items/BW004-R4-V2-Light_Rust-On/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/BW-IS01/items/BW004-R4-V2-Light_Rust-On/hero.jpg",
+      "size": 175336,
+      "sha": "ea6605ccf0a20944c049d96c7e9dd01851ece586"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "BW-IS01/items/BW004-R4-V2-Light_Rust-Overcharged/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/BW-IS01/items/BW004-R4-V2-Light_Rust-Overcharged/hero.jpg",
+      "size": 170490,
+      "sha": "c81e86e3dc79a1fd3f671e7787363f33f3d09bee"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "BW-IS01/items/BW004-R4-V2-Pristine-Overcharged/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/BW-IS01/items/BW004-R4-V2-Pristine-Overcharged/hero.jpg",
+      "size": 164400,
+      "sha": "c24546389968a67b30195ebbc3adbd2d56a16f05"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "BW-IS01/items/v4-material-reference-shapes/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/BW-IS01/items/v4-material-reference-shapes/hero.jpg",
+      "size": 78332,
+      "sha": "700fa8d8db3b33474882e1395c7751958bdbf144"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "BW-IS01/items/v4-true-displacement/contact-sheet.jpg",
+      "dest": "blenderworks-evidence/raw/bw/BW-IS01/items/v4-true-displacement/contact-sheet.jpg",
+      "size": 52769,
+      "sha": "bb7351eaf0179f4c14630e264624570ac4fbf3cf"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "BW-IS01/items/v4-true-displacement/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/BW-IS01/items/v4-true-displacement/hero.jpg",
+      "size": 59985,
+      "sha": "6181800c71c62140884c6b090718e01ac5cd1229"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "BW-IS01/items/v4-vector-displacement-detail/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/BW-IS01/items/v4-vector-displacement-detail/hero.jpg",
+      "size": 40778,
+      "sha": "1467c6f3a652a9d18adaad8c3768c5618825a646"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "BW-IS01/items/v4-vector-displacement-jagged/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/BW-IS01/items/v4-vector-displacement-jagged/hero.jpg",
+      "size": 40774,
+      "sha": "ae56900565b4d30591bddbeea7a8f43995a0e7bc"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "BW-IS01/items/v4-vector-displacement-three-way/contact-sheet.jpg",
+      "dest": "blenderworks-evidence/raw/bw/BW-IS01/items/v4-vector-displacement-three-way/contact-sheet.jpg",
+      "size": 47659,
+      "sha": "405d5883e12239e456292c4b49c5ce13b46d577a"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "BW-IS01/items/v4-vector-displacement-three-way/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/BW-IS01/items/v4-vector-displacement-three-way/hero.jpg",
+      "size": 51779,
+      "sha": "644f91ce1447de227125e8e28779c6a7d075e24a"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "BW-IS01/items/v4-vector-displacement-tread-macro/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/BW-IS01/items/v4-vector-displacement-tread-macro/hero.jpg",
+      "size": 37124,
+      "sha": "4bef9ec6dbf6d3f8daa611c3789648ba4e5c2134"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "BW-IS01/items/v4-vector-displacement/contact-sheet.jpg",
+      "dest": "blenderworks-evidence/raw/bw/BW-IS01/items/v4-vector-displacement/contact-sheet.jpg",
+      "size": 40557,
+      "sha": "331ba2d14b9ac00a28d6bcb98de0f6b5708640e7"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "BW-IS01/items/v4-vector-displacement/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/BW-IS01/items/v4-vector-displacement/hero.jpg",
+      "size": 48166,
+      "sha": "c81c748c371daf9556c60610b1f57aef9e915572"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "BW-IS01/items/v4-vector-normal-fidelity/contact-sheet.jpg",
+      "dest": "blenderworks-evidence/raw/bw/BW-IS01/items/v4-vector-normal-fidelity/contact-sheet.jpg",
+      "size": 44838,
+      "sha": "f99bc72bcec9ce261a12ef0c3d4e8b42fa0eb1c0"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "BW-IS01/items/v4-vector-normal-fidelity/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/BW-IS01/items/v4-vector-normal-fidelity/hero.jpg",
+      "size": 45941,
+      "sha": "a1f107ebe61a8e6fdac280fd0ee80f8ae8d5a51e"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "BW-IS01/latest/contact-sheet.jpg",
+      "dest": "blenderworks-evidence/raw/bw/BW-IS01/latest/contact-sheet.jpg",
+      "size": 74969,
+      "sha": "9d85c1f619a669935c42872530874f51a9e7486d"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "BW-IS01/latest/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/BW-IS01/latest/hero.jpg",
+      "size": 83867,
+      "sha": "62473d5dbf2896a98866e6848cdeb0ffabe85b38"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack01/items/IL01-04/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack01/items/IL01-04/hero.jpg",
+      "size": 46245,
+      "sha": "7ed9472bdc9d8fdada21c697b6025989783f2f1e"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack01/items/IL01-05-CylinderOnlyDecals/contact-sheet.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack01/items/IL01-05-CylinderOnlyDecals/contact-sheet.jpg",
+      "size": 271092,
+      "sha": "a8bbaae9793ebbc7462c9b3eb336dbe2f2692102"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack01/items/IL01-05-CylinderOnlyDecals/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack01/items/IL01-05-CylinderOnlyDecals/hero.jpg",
+      "size": 125111,
+      "sha": "018d48e1ce0c2591b413880e0e8c468af9ed2365"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack01/items/IL01-05-LOD-EditableWear/contact-sheet.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack01/items/IL01-05-LOD-EditableWear/contact-sheet.jpg",
+      "size": 316069,
+      "sha": "0b6c462a626b54f3001f5eab08822a10026f871e"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack01/items/IL01-05-LOD-EditableWear/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack01/items/IL01-05-LOD-EditableWear/hero.jpg",
+      "size": 104818,
+      "sha": "ed2ebf199a1496bc0c46a235df0e9ec2ecb42218"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack01/items/IL01-05-SteelVsRust/contact-sheet.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack01/items/IL01-05-SteelVsRust/contact-sheet.jpg",
+      "size": 150648,
+      "sha": "7a19cc51799197286271770ce1bdf7278a902d4e"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack01/items/IL01-05-SteelVsRust/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack01/items/IL01-05-SteelVsRust/hero.jpg",
+      "size": 108610,
+      "sha": "3748e4a68d536ccc5bda23910f059fc51ae36fba"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack01/items/IL01-05/contact-sheet.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack01/items/IL01-05/contact-sheet.jpg",
+      "size": 131767,
+      "sha": "dabbdcfc6229f8e2f42970d19097aa6b7606e1c3"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack01/items/IL01-05/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack01/items/IL01-05/hero.jpg",
+      "size": 90178,
+      "sha": "ce5549475d417b00ae49eb1e0ea0d6ddbaa7a969"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack01/latest/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack01/latest/hero.jpg",
+      "size": 23775,
+      "sha": "2ddc192b96ac4f70fc11caeb406ade65ec10d5ac"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack02/items/MI01-07-Grate/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack02/items/MI01-07-Grate/hero.jpg",
+      "size": 81347,
+      "sha": "4d1d81ebdfacd1c9ce4008e6cb9ab907e2747984"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack02/items/MI01-07-Macro/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack02/items/MI01-07-Macro/hero.jpg",
+      "size": 59509,
+      "sha": "05ba60c94409a13e3b13d4ee3903a8e439cdc7d9"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack02/items/MI01-07-R12V4-Grate/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack02/items/MI01-07-R12V4-Grate/hero.jpg",
+      "size": 81336,
+      "sha": "e055148555d6688f51ae3c2320516841d12047a8"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack02/items/MI01-07-R12V4-Macro/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack02/items/MI01-07-R12V4-Macro/hero.jpg",
+      "size": 59513,
+      "sha": "ffaf63d518235f86f70439a165b42d3d3c40dfe8"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack02/items/MI01-07-R12V4-Service/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack02/items/MI01-07-R12V4-Service/hero.jpg",
+      "size": 57798,
+      "sha": "64f7507980229be280c2613f0aca38eac9a8575d"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack02/items/MI01-07-R12V4/contact-sheet.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack02/items/MI01-07-R12V4/contact-sheet.jpg",
+      "size": 57355,
+      "sha": "0c3f94c536705f7b983ee0950ccef8c02b22997e"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack02/items/MI01-07-R12V4/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack02/items/MI01-07-R12V4/hero.jpg",
+      "size": 76578,
+      "sha": "517f8a5d194966f218e488bae2a5647b212f6067"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack02/items/MI01-07-R13Scalar-Flat/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack02/items/MI01-07-R13Scalar-Flat/hero.jpg",
+      "size": 53525,
+      "sha": "dcfe2cecb8a0138ead88ae79243d3fb698d7125e"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack02/items/MI01-07-R13Scalar-Macro/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack02/items/MI01-07-R13Scalar-Macro/hero.jpg",
+      "size": 76785,
+      "sha": "e6d1506c0a4fe38fed0c21862dad0b95e65968bc"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack02/items/MI01-07-R13Scalar-Service/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack02/items/MI01-07-R13Scalar-Service/hero.jpg",
+      "size": 60824,
+      "sha": "e60a8971638d4a5b41bcf42a91b29c24ae9af437"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack02/items/MI01-07-R13Scalar/contact-sheet.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack02/items/MI01-07-R13Scalar/contact-sheet.jpg",
+      "size": 62902,
+      "sha": "2ebd37d67fe745ffa90b25dc81ef7b15c0706210"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack02/items/MI01-07-R13Scalar/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack02/items/MI01-07-R13Scalar/hero.jpg",
+      "size": 78716,
+      "sha": "c603062b5b9a0d77b27b62ba8e170200fccecfbe"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack02/items/MI01-07-Service/contact-sheet.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack02/items/MI01-07-Service/contact-sheet.jpg",
+      "size": 57760,
+      "sha": "744a91c33e0d0f2da9727aa47f9ab844531236a6"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack02/items/MI01-07-Service/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack02/items/MI01-07-Service/hero.jpg",
+      "size": 75401,
+      "sha": "2117cc48e2aa72e95eadd46195ed0c9eb3e51d21"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack02/items/MI01-07-Solid/contact-sheet.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack02/items/MI01-07-Solid/contact-sheet.jpg",
+      "size": 57334,
+      "sha": "4fbac63f7fb014df36c1e3b9c3a4644df249d8cb"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack02/items/MI01-07-Solid/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack02/items/MI01-07-Solid/hero.jpg",
+      "size": 72868,
+      "sha": "62775089d210e45b5c05c55264fdaf72add4759d"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack02/items/MI01-07/contact-sheet.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack02/items/MI01-07/contact-sheet.jpg",
+      "size": 57334,
+      "sha": "4fbac63f7fb014df36c1e3b9c3a4644df249d8cb"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack02/items/MI01-07/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack02/items/MI01-07/hero.jpg",
+      "size": 76581,
+      "sha": "865c0864a3480c93c05401b5b841ce3bcef31321"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack02/latest/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack02/latest/hero.jpg",
+      "size": 28500,
+      "sha": "b7a35d4ee3a72d774d3c2c6e7077d1881c19d444"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack03/items/RS01-03-R06/contact-sheet.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack03/items/RS01-03-R06/contact-sheet.jpg",
+      "size": 256222,
+      "sha": "cf9df67c35155382d562342eae269876f9013308"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack03/items/RS01-03-R06/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack03/items/RS01-03-R06/hero.jpg",
+      "size": 112047,
+      "sha": "984e25b098b847e38e3b45002c91545556202abf"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack03/items/RS01-03-R07/contact-sheet.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack03/items/RS01-03-R07/contact-sheet.jpg",
+      "size": 171842,
+      "sha": "f113baedd28445b1af2b40c8692b7a5de9c36fe4"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack03/items/RS01-03-R07/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack03/items/RS01-03-R07/hero.jpg",
+      "size": 84827,
+      "sha": "8091dc78777f7c4f82156709555ba44f5bf0e972"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack03/items/RS01-03-R08/contact-sheet.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack03/items/RS01-03-R08/contact-sheet.jpg",
+      "size": 196653,
+      "sha": "b2d5adbcf56a3b0566b20af8381db8e6deea45ae"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack03/items/RS01-03-R08/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack03/items/RS01-03-R08/hero.jpg",
+      "size": 92964,
+      "sha": "43461b3e0ed15f23e4ec8175b8ad93d0ea5c19a0"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack03/items/RS01-03-R09/contact-sheet.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack03/items/RS01-03-R09/contact-sheet.jpg",
+      "size": 197732,
+      "sha": "568c7a1562ad3cec62ff987092f9912c0d021978"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack03/items/RS01-03-R09/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack03/items/RS01-03-R09/hero.jpg",
+      "size": 91527,
+      "sha": "33b8396f1a2be45bad88c449edc733c66bb83674"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack03/items/RS01-03-R10/contact-sheet.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack03/items/RS01-03-R10/contact-sheet.jpg",
+      "size": 240167,
+      "sha": "c16d95a656f54faeedc756547b57440c20e3b7ac"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack03/items/RS01-03-R10/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack03/items/RS01-03-R10/hero.jpg",
+      "size": 108638,
+      "sha": "c51f82098a4cb70675c0bb1a46ec2d24c10f2e8d"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack03/items/RS01-03-R11/contact-sheet.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack03/items/RS01-03-R11/contact-sheet.jpg",
+      "size": 238548,
+      "sha": "fc76ddb60d9de0cd8a2739d0bbe6a39361c20a94"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack03/items/RS01-03-R11/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack03/items/RS01-03-R11/hero.jpg",
+      "size": 106996,
+      "sha": "d6b6b5e9f780356618d8f3b69239d6cbb9d9a3a4"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack03/items/RS01-03-R12/contact-sheet.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack03/items/RS01-03-R12/contact-sheet.jpg",
+      "size": 166284,
+      "sha": "09f345f2a5d7bfa802c2f5b90e0c0d92848228a3"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack03/items/RS01-03-R12/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack03/items/RS01-03-R12/hero.jpg",
+      "size": 110614,
+      "sha": "f53c3524b2d3f61795284b6a089f968c00f4423c"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack03/items/RS01-03-R13/contact-sheet.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack03/items/RS01-03-R13/contact-sheet.jpg",
+      "size": 269045,
+      "sha": "8c97bc835dc39379a9babb392566de732959d269"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack03/items/RS01-03-R13/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack03/items/RS01-03-R13/hero.jpg",
+      "size": 115535,
+      "sha": "96fbac03182ac25339000a7fdeb3b6cdb0ecb823"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack03/items/RS01-03-R14/contact-sheet.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack03/items/RS01-03-R14/contact-sheet.jpg",
+      "size": 255963,
+      "sha": "b31d91b022ec3cf841b87c3ddfb0dbffdf5d892c"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack03/items/RS01-03-R14/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack03/items/RS01-03-R14/hero.jpg",
+      "size": 112445,
+      "sha": "984cf31706a1f8cab4a4bca5d624ca1efbd520da"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack03/items/RS01-03-R14B/contact-sheet.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack03/items/RS01-03-R14B/contact-sheet.jpg",
+      "size": 253231,
+      "sha": "7a9394abfd1684414ef29586f64f89d50251ae95"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack03/items/RS01-03-R14B/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack03/items/RS01-03-R14B/hero.jpg",
+      "size": 106776,
+      "sha": "e5422863b5d9285ed79883e995b533636d6c0512"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack03/items/RS01-03/contact-sheet.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack03/items/RS01-03/contact-sheet.jpg",
+      "size": 234653,
+      "sha": "831629c0ef0df88f4cd9d1e127c6a69050bc5238"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack03/items/RS01-03/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack03/items/RS01-03/hero.jpg",
+      "size": 113013,
+      "sha": "29bc46fa79acd8369db9fc2937dbfeb6a223f671"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "Pack03/latest/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/Pack03/latest/hero.jpg",
+      "size": 35350,
+      "sha": "ac2ee2eb3d6290202c1c50cb3ec6f5b1deb19a72"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "RobotFish/42267183028/AZ03-fixed/01_three_quarter.png",
+      "dest": "blenderworks-evidence/raw/bw/RobotFish/42267183028/AZ03-fixed/01_three_quarter.png",
+      "size": 688283,
+      "sha": "2f5562f08306550de6bc85075db7e5831d346aca"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "RobotFish/42267183028/AZ03-fixed/02_side.png",
+      "dest": "blenderworks-evidence/raw/bw/RobotFish/42267183028/AZ03-fixed/02_side.png",
+      "size": 785807,
+      "sha": "46d9ecaac12ed02ee5a3ab0e2a44471bc74f1d33"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "RobotFish/42267183028/AZ03-hardsurface/01_three_quarter.png",
+      "dest": "blenderworks-evidence/raw/bw/RobotFish/42267183028/AZ03-hardsurface/01_three_quarter.png",
+      "size": 731416,
+      "sha": "27b3e38b3a4c06bd4926e9e97873aba134dfd445"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "RobotFish/42267183028/AZ03-hardsurface/02_side.png",
+      "dest": "blenderworks-evidence/raw/bw/RobotFish/42267183028/AZ03-hardsurface/02_side.png",
+      "size": 729224,
+      "sha": "829c82c725cc966b79fe3654441af64beb6eb361"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "RobotFish/42267183028/AZ03-original/01_three_quarter.png",
+      "dest": "blenderworks-evidence/raw/bw/RobotFish/42267183028/AZ03-original/01_three_quarter.png",
+      "size": 749755,
+      "sha": "5c42ee873d1d955ce0ccca29c2737617090d2827"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "RobotFish/42267183028/AZ03-original/02_side.png",
+      "dest": "blenderworks-evidence/raw/bw/RobotFish/42267183028/AZ03-original/02_side.png",
+      "size": 749210,
+      "sha": "12f17df985801aa565eb4ce4a5ce17fd64630ddf"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "RobotFish/42267183028/AZ03-rebuilt/01_three_quarter.png",
+      "dest": "blenderworks-evidence/raw/bw/RobotFish/42267183028/AZ03-rebuilt/01_three_quarter.png",
+      "size": 775604,
+      "sha": "f504d0abcae887765af6fb2d71da25b1491bb799"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "RobotFish/42267183028/AZ03-rebuilt/02_side.png",
+      "dest": "blenderworks-evidence/raw/bw/RobotFish/42267183028/AZ03-rebuilt/02_side.png",
+      "size": 776108,
+      "sha": "411731140c0f3fd12aa277833b9d73c1762baa21"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "RobotFish/42267183028/RK07/01_three_quarter.png",
+      "dest": "blenderworks-evidence/raw/bw/RobotFish/42267183028/RK07/01_three_quarter.png",
+      "size": 794812,
+      "sha": "047c4357141e80d97ec8a0a4346e47f78b9b4091"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "RobotFish/42267183028/RK07/02_side.png",
+      "dest": "blenderworks-evidence/raw/bw/RobotFish/42267183028/RK07/02_side.png",
+      "size": 796295,
+      "sha": "cca95abd9484c7c130456910330d2e3ea0de0d0e"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "RobotFish/42267183028/VY02/01_three_quarter.png",
+      "dest": "blenderworks-evidence/raw/bw/RobotFish/42267183028/VY02/01_three_quarter.png",
+      "size": 799791,
+      "sha": "c9726a27d679e3a1778b5c2b345682ece390b850"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "RobotFish/42267183028/VY02/02_side.png",
+      "dest": "blenderworks-evidence/raw/bw/RobotFish/42267183028/VY02/02_side.png",
+      "size": 790346,
+      "sha": "e2ee48f705e696b3c71a9986ed0e908ac3337fcb"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "RobotFish/items/RK07-42346753965/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/RobotFish/items/RK07-42346753965/hero.jpg",
+      "size": 33824,
+      "sha": "4b8e1b050372d1ff8b1c425ff7ba46d6fe23c273"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "bw-previews",
+      "path": "RobotFish/items/VY02-42346753965/hero.jpg",
+      "dest": "blenderworks-evidence/raw/bw/RobotFish/items/VY02-42346753965/hero.jpg",
+      "size": 34300,
+      "sha": "0abe39a8c54c67807c6f53d50853171ff714c1d6"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "experiment/q4-unreal-locomotion-phase2a",
+      "path": "Prototypes/Q4-Warden/Unreal/QA/Evidence/Q4_Corrected_Chassis_Persistent_Editor.png",
+      "dest": "blenderworks-evidence/raw/q4/Prototypes/Q4-Warden/Unreal/QA/Evidence/Q4_Corrected_Chassis_Persistent_Editor.png",
+      "size": 1395948,
+      "sha": "d7bbaba60aee94f7afb5bc3548224339d30e0ec9"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "experiment/q4-unreal-locomotion-phase2a",
+      "path": "Prototypes/Q4-Warden/Unreal/QA/Evidence/Q4_Warden_Assembled_Perspective_Unreal_41961241630.png",
+      "dest": "blenderworks-evidence/raw/q4/Prototypes/Q4-Warden/Unreal/QA/Evidence/Q4_Warden_Assembled_Perspective_Unreal_41961241630.png",
+      "size": 1573982,
+      "sha": "4eb893d31fa99d08d16264ee495445de031afa7d"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "experiment/q4-unreal-locomotion-phase2a",
+      "path": "Prototypes/Q4-Warden/Unreal/QA/Evidence/Q4_Warden_Assembled_Perspective_Unreal_42171394617.png",
+      "dest": "blenderworks-evidence/raw/q4/Prototypes/Q4-Warden/Unreal/QA/Evidence/Q4_Warden_Assembled_Perspective_Unreal_42171394617.png",
+      "size": 562107,
+      "sha": "66456548acff761b4c29f9754a138e9d1629c392"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "experiment/q4-unreal-locomotion-phase2a",
+      "path": "Prototypes/Q4-Warden/Unreal/QA/Evidence/Q4_Warden_Assembled_Perspective_Unreal_42177414566.png",
+      "dest": "blenderworks-evidence/raw/q4/Prototypes/Q4-Warden/Unreal/QA/Evidence/Q4_Warden_Assembled_Perspective_Unreal_42177414566.png",
+      "size": 712232,
+      "sha": "91c2185f31262d62432a5d9bf14432006c8e36db"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "experiment/q4-unreal-locomotion-phase2a",
+      "path": "Prototypes/Q4-Warden/Unreal/QA/Evidence/Q4_Warden_Assembled_Perspective_Unreal_42184326205.png",
+      "dest": "blenderworks-evidence/raw/q4/Prototypes/Q4-Warden/Unreal/QA/Evidence/Q4_Warden_Assembled_Perspective_Unreal_42184326205.png",
+      "size": 1749163,
+      "sha": "32734e57c22e8704637b84e19f3eda4677371c0b"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "experiment/q4-unreal-locomotion-phase2a",
+      "path": "Prototypes/Q4-Warden/Unreal/QA/Evidence/Q4_Warden_Assembled_Perspective_Unreal_42185565723.png",
+      "dest": "blenderworks-evidence/raw/q4/Prototypes/Q4-Warden/Unreal/QA/Evidence/Q4_Warden_Assembled_Perspective_Unreal_42185565723.png",
+      "size": 1531107,
+      "sha": "5e7984929f508123ec82b8a65c25e40f6494f59e"
+    },
+    {
+      "repo": "NirabhraDas013/blenderworks-assets",
+      "ref": "experiment/q4-unreal-locomotion-phase2a",
+      "path": "Prototypes/Q4-Warden/Unreal/QA/Evidence/Q4_Warden_Assembled_Perspective_Unreal_42187074068.png",
+      "dest": "blenderworks-evidence/raw/q4/Prototypes/Q4-Warden/Unreal/QA/Evidence/Q4_Warden_Assembled_Perspective_Unreal_42187074068.png",
+      "size": 1278472,
+      "sha": "9eaf18b47dd4ac8e778ce2b5badb407d97d72a19"
+    },
+    {
+      "repo": "NirabhraDas013/prototopiq-shipyard",
+      "ref": "main",
+      "path": "packs/01-industrial/ships/kr-718/prototypes/bow-pass01/renders/ACTUAL_SIX_VIEWS.jpg",
+      "dest": "blenderworks-evidence/raw/shipyard/packs/01-industrial/ships/kr-718/prototypes/bow-pass01/renders/ACTUAL_SIX_VIEWS.jpg",
+      "size": 131,
+      "sha": "4eb99693463b5cb4a35ef6f00e06d300f99eab93"
+    },
+    {
+      "repo": "NirabhraDas013/prototopiq-shipyard",
+      "ref": "main",
+      "path": "packs/01-industrial/ships/kr-718/prototypes/bow-pass01/renders/ATLAS_VS_ACTUAL_PASS01.jpg",
+      "dest": "blenderworks-evidence/raw/shipyard/packs/01-industrial/ships/kr-718/prototypes/bow-pass01/renders/ATLAS_VS_ACTUAL_PASS01.jpg",
+      "size": 131,
+      "sha": "67748820b9d71ab6407403e397b3f57824280892"
+    },
+    {
+      "repo": "NirabhraDas013/prototopiq-shipyard",
+      "ref": "main",
+      "path": "packs/01-industrial/ships/kr-718/prototypes/bow-pass01/renders/ISO_EXPLODED.png",
+      "dest": "blenderworks-evidence/raw/shipyard/packs/01-industrial/ships/kr-718/prototypes/bow-pass01/renders/ISO_EXPLODED.png",
+      "size": 131,
+      "sha": "27bd49c218532401c3f8f09ff93b71ebf397d2a2"
+    },
+    {
+      "repo": "NirabhraDas013/prototopiq-shipyard",
+      "ref": "main",
+      "path": "packs/01-industrial/ships/kr-718/prototypes/bow-pass02/renders/ACTUAL_VIEWS_PASS02.jpg",
+      "dest": "blenderworks-evidence/raw/shipyard/packs/01-industrial/ships/kr-718/prototypes/bow-pass02/renders/ACTUAL_VIEWS_PASS02.jpg",
+      "size": 131,
+      "sha": "9fe5e486a6ea23b8c569afde8a44d753ac6e2708"
+    },
+    {
+      "repo": "NirabhraDas013/prototopiq-shipyard",
+      "ref": "main",
+      "path": "packs/01-industrial/ships/kr-718/prototypes/bow-pass02/renders/ATLAS_VS_ACTUAL_PASS02.jpg",
+      "dest": "blenderworks-evidence/raw/shipyard/packs/01-industrial/ships/kr-718/prototypes/bow-pass02/renders/ATLAS_VS_ACTUAL_PASS02.jpg",
+      "size": 131,
+      "sha": "2f2a49b636640cea0ae953e3f33f17bf95ade194"
+    }
+  ]
+}
